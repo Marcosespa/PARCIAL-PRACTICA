@@ -1,0 +1,11 @@
+{
+  "dashboard": {
+    "title": "My Spaces"
+  },
+  "spaceDetail": {
+    "name": "Rooms in Space"
+  },
+  "roomDetail": {
+    "name": "Devices in Room"
+  }
+}
